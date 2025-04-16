@@ -1,0 +1,12 @@
+{
+  "name": "curso_de_laravel_hora_de_codar_youtubecanal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
